@@ -4,7 +4,7 @@
   $showServerInfo = "false";
   $timeZone = "America/New_York";
   $currency = "$";
-  $db_url = "part2";
+  $db_url = "DB-container";
   $db_name = "mom_pop_db";
   $db_user = "root";
   $db_password = "Msois@123";
@@ -12,5 +12,6 @@
   // Display the server metadata information if the showServerInfo parameter is true.
   //include('serverInfo.php');
 ?>
+
 
 
